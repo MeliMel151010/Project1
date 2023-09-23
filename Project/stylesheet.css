@@ -1,0 +1,43 @@
+body {
+  background-color: lightpink;
+}
+
+hr {
+  background: linear-gradient(to right, rgb(228, 142, 228), white);
+  height: 5px;
+  border: dotted white 10px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+  font-size: 55px;
+}
+
+h2 {
+  color: white;
+  font-family: Helvetica;
+  font-size: 30px;
+  border: 5px dotted white;
+  padding: 30px;
+}
+
+p {
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: white;
+}
+
+h3 {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  text-align: center;
+  border: 2px solid white;
+  padding: 30px;
+}
+
+li {
+  color: white;
+}
